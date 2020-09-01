@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-core</artifactId>
-			<version>8.5.34</version>
+			<version>8.5.55</version>
 		</dependency>
 <!--	自己添加的	HttpServletRequest 依赖-->
 		<dependency>
